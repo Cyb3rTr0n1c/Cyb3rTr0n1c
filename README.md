@@ -1,71 +1,28 @@
-<!--
-**Cyb3rTr0n1c/Cyb3rTr0n1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi there 👋, I'm Daniel Torres
 <a href="https://www.linkedin.com/in/daniel-torres-96a486315/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a spanish student in computer science degree with a profound interest in technology and a dedication to solving complex problems. I'm a passionate cybersecurity enthusiast dedicated to making the digital world a safer place. I am currently starting my career in cybersecurity, focusing on areas such as network security, ethical hacking, and threat analysis.
-
+I am a Spanish student pursuing a degree in computer science with a profound interest in technology and a dedication to solving complex problems. I'm a passionate cybersecurity enthusiast dedicated to making the digital world a safer place. I am currently starting my career in cybersecurity, focusing on areas such as network security, ethical hacking, and threat analysis.
 
 ## Objective
 
-"My journey in computer science has ignited a deep passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join INCIBE at some point in my career 
+"My journey in computer science has ignited a deep passion for cybersecurity. I am now eager to transition into this field, specifically aiming to join INCIBE at some point in my career."
 
-## 🕵️‍♂️ Skills 
+## 🕵️‍♂️ Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Basic security audit over fictional company   | <a href="https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Internal%20security%20audit%20over%20fictional%20company">Google CyberSecurity Certificate Lab</a>|
-<!--
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                               | Description                                                                                           | Associated Project                                                                 |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Linux**                                          | Proficiency with Linux commands and systems for managing and securing environments.                  | [File Permissions in Linux for Research Team](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/File%20Permissions%20in%20Linux%20for%20Research%20Team) |
+| **SQL**                                            | Writing and executing SQL queries for database management and security analysis.                     | [Investigating Security Issues with SQL Filters](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Investigating%20Security%20Issues%20with%20SQL%20Filters) |
+| **Python**                                         | Coding in Python to automate tasks and develop security tools and scripts.                           | [Algorithm for File Updates in Python](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Algorithm%20for%20File%20Updates%20in%20Python) |
+| **SIEM Tools**                                    | Using Security Information and Event Management tools to aggregate, analyze, and manage security data. | [Splunk Data Analysis for Security Assessment](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Splunk%20Data%20Analysis%20for%20Security%20Assessment) |
+| **Intrusion Detection Systems (IDS)**              | Implementing and managing IDS to detect and respond to malicious activities and breaches.            | [Network Traffic Analysis with Wireshark and tcpdump](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Network%20Traffic%20Analysis%20with%20Wireshark%20and%20tcpdump) |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
--->
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+| Project                                        | Description                                                                                           | Repository Link                                                                 |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Detection Lab**                            | A hands-on project involving the setup and analysis of a security detection environment.              | [Detection Lab](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Detection%20Lab) |
+| **SOC Automation Project**                   | Automating tasks within a Security Operations Center (SOC) to enhance efficiency and effectiveness.  | [SOC Automation Project](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/SOC%20Automation%20Project) |
+| **Network Traffic Analysis with Wireshark and tcpdump** | Comparing network traffic analysis tools and evaluating their features.                              | [Network Traffic Analysis with Wireshark and tcpdump](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Network%20Traffic%20Analysis%20with%20Wireshark%20and%20tcpdump) |
+| **Incident Report Analysis for Multimedia Company** | Analyzing a DDoS attack incident report to recommend preventive measures.                            | [Incident Report Analysis for Multimedia Company](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Incident%20Report%20Analysis%20for%20Multimedia%20Company) |
+| **Chronicle Investigation for Phishing Email** | Investigating phishing email domains using Chronicle to identify potential threats.                   | [Chronicle Investigation for Phishing Email](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Chronicle%20Investigation%20for%20Phishing%20Email) |
