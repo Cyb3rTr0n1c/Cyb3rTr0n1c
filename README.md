@@ -25,7 +25,7 @@ I am a spanish student in computer science degree with a profound interest in te
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic security audit over fictional company   | <a href="https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main">Google CyberSecurity Certificate Lab</a>|
+| Basic security audit over fictional company   | <a href="https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Internal%20security%20audit%20over%20fictional%20company">Google CyberSecurity Certificate Lab</a>|
 <!--
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
