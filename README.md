@@ -17,9 +17,9 @@ I am a Spanish student pursuing a degree in computer science with a profound int
 | **SIEM Tools**                                    | Using Security Information and Event Management tools to aggregate, analyze, and manage security data. | [Splunk Data Analysis for Security Assessment](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Splunk%20Data%20Analysis%20for%20Security%20Assessment) *(Google Cybersecurity Certificate)* <br> |
 | **Packet Capture Tools** | Implementing and managing packet capture tools to analyze network traffic and identify potential issues. | [Wireshark Packet Capture](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Network%20Traffic%20Analysis%20for%20fictional%20website) *(Google Cybersecurity Certificate)* <br> and <br> [tcpdump Packet Capture](https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate/tree/main/Network%20Traffic%20Analysis%20for%20fictional%20website%202) *(Google Cybersecurity Certificate)* <br> |
 
-## Projects
+## Certificates
 
-| Project                        | Description                                                                                                           | Repository Link                                                                                                                     |
+| Certificate                        | Description                                                                                                           | Repository Link                                                                                                                     |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | **Google Cybersecurity Certificate** | An overview of the Google Cybersecurity Certificate, showcasing the skills and knowledge gained from the course.       |  <a href="https://github.com/Cyb3rTr0n1c/Google-Cybersecurity-Certificate"><img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" /></a> |
 
